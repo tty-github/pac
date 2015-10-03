@@ -6,6 +6,8 @@ var black_domains = [
 ,	"iadsdk.apple.com"
 ,	"iadc.qwapi.com"
 ,	"amebaspgame.com"
+,       ".media-rep.com"
+,       "i.ad-move.jp"
 ,	"c1.nend.net"
 ,	"output.nend.net"
 ,	".i-mobile.co.jp"
