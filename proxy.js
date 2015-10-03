@@ -8,7 +8,7 @@ var black_domains = [
 ,	"amebaspgame.com"
 ,       ".media-rep.com"
 ,       "i.ad-move.jp"
-,	"c1.nend.net"
+,	".nend.net"
 ,	"output.nend.net"
 ,	".i-mobile.co.jp"
 ,	"googleads.g.doubleclick.net"
