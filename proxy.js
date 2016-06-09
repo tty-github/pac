@@ -12,6 +12,8 @@ var black_domains = [
 ,	"output.nend.net"
 ,	".i-mobile.co.jp"
 ,	"googleads.g.doubleclick.net"
+,	"google-analytics.com"
+,	"www.google-analytics.com"
 ];
 
 function FindProxyForURL(url, host) {
